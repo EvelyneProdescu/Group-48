@@ -1,0 +1,270 @@
+{
+    "1": {
+       "sentiment_label": "positive",
+       "text_of_tweet": "that fancy vegan sushi restaurant in Paris",
+       "tweet_topic": "restaurant"
+   },
+   "2": {
+       "sentiment_label": "positive",
+       "text_of_tweet": "My Restaurant Update. It is almost that time to come and eat at RAMEISH Kitchen!!!",
+       "tweet_topic": "restaurant"
+   },
+   "3": {
+       "sentiment_label": "negative",
+       "text_of_tweet": "Belgrade Restaurant Forced To Close After Giant Rat Found In Kitchen",
+       "tweet_topic": "restaurant"
+   },
+   "4": {
+       "sentiment_label": "neutral",
+       "text_of_tweet": "Abandoned 50's restaurant",
+       "tweet_topic": "restaurant"
+   },
+   "5": {
+       "sentiment_label": "neutral",
+       "text_of_tweet": "Working on design of a #Resort on the sea. This is a massing study for a restaurant that will be on a pier. This is what I do.",
+       "tweet_topic": "restaurant"
+   },
+   "6": {
+       "sentiment_label": "negative",
+       "text_of_tweet": "Ok so…18% of $105.13 is $36.09 As a convenience for whom? This restaurant in Las Vegas is encouraging us to do our own math",
+       "tweet_topic": "restaurant" 
+   },
+   "7": {
+       "sentiment_label": "positive",
+       "text_of_tweet": "#Eat. Drink. Love. Enjoy your #Weekend!Good food and great vibes!",
+       "tweet_topic": "restaurant"
+   },
+   "8": {
+       "sentiment_label": "positive",
+       "text_of_tweet": "At the best restaurant in Dubai!!! Guess where",
+       "tweet_topic": "restaurant"
+   },
+   "9": {
+       "sentiment_label": "neutral",
+       "text_of_tweet": "England restaurant food is a lot better than American school canteen food.",
+       "tweet_topic": "restaurant"
+   },
+   "10": {
+       "sentiment_label": "neutral",
+       "text_of_tweet": "im at a drive thru at burger king",
+       "tweet_topic": "restaurant"
+   },
+    "11": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Look on the bright side this Monday… it is officially SPRING and we have a Classic Chicken Sandwich and Oreo Cookie Mint Shake with your name on it.",
+        "tweet_topic": "restaurant"
+    },
+
+    "12": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "World's best restaurants honored in culinary awards",
+        "tweet_topic": "restaurant"
+    },
+
+    "13": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Fast food chain Burger King is now accepting cryptocurrencies as a payment option in its French restaurants.",
+        "tweet_topic": "restaurant"
+    },
+    
+    "14": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Our grass fed Lamb Chops are served with sweet potato chips & Rainbow Salad (or choose roasted Nicola potatoes instead).",
+        "tweet_topic": "restaurant"
+    },
+
+    "15": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "I've finally come to the conclusion that fast food post COVID is slower than a sit down restaurant. Should not take 40 minutes with only 2 cars in line.",
+        "tweet_topic": "restaurant"
+    },
+    
+    "16": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "please cancel permission for this restaurant. I have ordered food from this restaurant and it has food adulteration issues. Serving food with cockroaches.",
+        "tweet_topic": "restaurant"
+    },
+
+   "17": {
+       "sentiment_label": "positive",
+       "text_of_tweet": "Let's get this video trending asap! The level of effort and detail that has gone into this work of art is brilliant. Everyone deserves a mother like her. ssrajamouli (IG), sir, you need to check this out! Outstanding!",
+       "tweet_topic": "movie"
+   },
+   
+   "18": {
+       "sentiment_label": "neutral",
+       "text_of_tweet": "Have you ever seen this 1987 #Action/#Fantasy #Movie & if so what did you think of it?",
+       "tweet_topic": "movie"
+   },
+   
+   "19": {
+       "sentiment_label": "positive",
+       "text_of_tweet": "Woman: You are going to hell! So Lady Gaga, kissed her and said, You’re coming with me😁 #jokermovie #joker2 #ladygaga #jaoquinphoenix ",
+       "tweet_topic": "movie"
+   },
+   "20": {
+       "sentiment_label": "positive",
+       "text_of_tweet": "i can’t get over this movie",
+       "tweet_topic": "movie"
+   },
+   "21": {
+       "sentiment_label": "positive",
+       "text_of_tweet": "Do Revenge is actually not a bad movie, at least myself never saw any negative review for that movie, but it is camp for being good, kinda like Clueless",
+       "tweet_topic": "movie"
+   },
+   "22": {
+       "sentiment_label": "negative",
+       "text_of_tweet": "Saying it's a bad movie would be a more 'positive' review than what he just said 💀💀💀",
+       "tweet_topic": "movie"
+   },
+   "23": {
+       "sentiment_label": "negative",
+       "text_of_tweet": "Genuine and personal review:: Bad movie, just a random mixture of many movies, nothing actually gripping about the movie. Time waste! #Pathaan",
+       "tweet_topic": "movie"
+   },
+   "24": {
+       "sentiment_label": "neutral",
+       "text_of_tweet": "A film about a Black first grader who integrated an all-White elementary school is under review in a Florida school district after a parent objected to the movie's use of slurs and argued it could teach students that 'White people hate Black people'",
+       "tweet_topic": "movie"
+   },
+   "25": {
+       "sentiment_label": "positive",
+       "text_of_tweet": "Ben Affleck’s ‘AIR’ was phenomenal. Surprisingly funny, inspirational and a fantastic time at the movies. The cast standout is Viola Davis who mails in another Oscar worthy performance. The film incorporates an appropriate amount of 80’s nostalgia but didn’t over rely on it.…",
+       "tweet_topic": "movie"
+   },
+   "26": {
+       "sentiment_label": "positive",
+       "text_of_tweet": "‘Dungeons & Dragons: Honor Among Thieves’ Review: Everything I Wanted From A D&D Movie… I’d love to be able to come back n Play with this crew any day, so much talent & heart ✨🤟🏽💚🤍💛",
+       "tweet_topic": "movie"
+   },
+   "27": {
+       "sentiment_label": "negative",
+       "text_of_tweet": "honestly the most frustrating thing is reading movie review and the only reason they rated the movie low was because they just didn’t understand it",
+       "tweet_topic": "movie"
+   },
+   "28": {
+       "sentiment_label": "positive",
+       "text_of_tweet": "Based on a real life story with one of the most incredible pieces of Casting in film history, this isn’t just one of the best British films of the 80’s it’s one of the best post-war British films ever.",
+       "tweet_topic": "movie"
+   },
+   "29": {
+       "sentiment_label": "neutral",
+       "text_of_tweet": "Lucille La Verne voicing one of the most influential villains in film history.",
+       "tweet_topic": "movie"
+   },
+   "30": {
+       "sentiment_label": "neutral",
+       "text_of_tweet": "Keanu Reeves cut nearly 50% of his dialogue and says just 380 words in #JohnWick4",
+       "tweet_topic": "movie"
+   },
+   "31": {
+       "sentiment_label": "neutral",
+       "text_of_tweet": "Kanye West says that watching Jonah Hill in '21 Jump Street' made him like Jewish people again",
+       "tweet_topic": "movie"
+   },
+   "32": {
+       "sentiment_label": "neutral",
+       "text_of_tweet": "Austin Butler lost the role of Rooster in #TopGunMaverick to Miles Teller and then Miles Teller lost the role of Elvis to Austin Butler",
+       "tweet_topic": "movie"
+   },
+   "33": {
+       "sentiment_label": "negative",
+       "text_of_tweet": "i speak for everyone that we just hate his films if u go through the negative reviews, always the same thing, style over substance just like staring at the moon, aesthetic but no alien ships flying by",
+       "tweet_topic": "movie"
+   },
+    "32": {"sentiment_label": "negative",
+"text_of_tweet": "Writing books based on forged stories is just waisting time and resources..... What else can you expect from an author and witnesses biased by genocide ideology?????.",
+"tweet_topic": "book"
+},
+
+"33": {"sentiment_label": "positive",
+"text_of_tweet": "Another great book from my favorite author, Benjamin Alire Sáenz, god I love how this man rights.",
+"tweet_topic": "book"
+},
+
+"34": {"sentiment_label": "negative",
+"text_of_tweet": "Worst book report ever",
+"tweet_topic": "book"
+},
+
+"35": {"sentiment_label": "negative",
+"text_of_tweet": "Please reconsider promoting her books. She insults neurodiverse children, reinforces negative stereotypes about Black and Brown students, and belittles parents of kids in foster care",
+"tweet_topic": "book"
+},
+
+"36": {"sentiment_label": "negative",
+"text_of_tweet": "no offense mini, but, this is worse than book 2 chapter 4, worse than book 1 chapter 2, this is trash, garbage, GOD AWFUL.",
+"tweet_topic": "book"
+},
+
+"37": {"sentiment_label": "negative",
+"text_of_tweet": "I read his book cover to cover, worst read ever.  He is not too bright.",
+"tweet_topic": "book"
+},
+
+"38": {"sentiment_label": "negative",
+"text_of_tweet": "When they give their kids GTA instead of mathematics text book. What do you expect. kids are practicing what they watch in games..",
+"tweet_topic": "book"
+},
+
+"39": {"sentiment_label": "negative",
+"text_of_tweet": "Books are still there because it takes time to adopt to changes. Books won't be there when these kids, born after 2010 become teacher.",
+"tweet_topic": "book"
+},
+
+"40": {"sentiment_label": "neutral",
+"text_of_tweet": "Nice characterization, well written, satisfying conclusion, just a great read.",
+"tweet_topic": "book"
+},
+
+  "41": {
+    "sentiment_label": "neutral",
+    "text_of_tweet": "Looking for something fun to read? With colour and rhythm and beauty? Check out this book list I compiled - there's something for everyone! ",
+    "tweet_topic": "book"
+  },
+  "42": {
+    "sentiment_label": "neutral",
+    "text_of_tweet": "This book is a must-read for poetry lovers, Billy J. Barnum uses simple words to convey profound wisdom through a mesmerizing collection of poetic verses",
+    "tweet_topic": "book"
+  },
+  "43": {
+    "sentiment_label": "positive",
+    "text_of_tweet": "The best books of all time, chosen by people who love reading",
+    "tweet_topic": "book"
+  },
+  "44": {
+    "sentiment_label": "positive",
+    "text_of_tweet": "These National Geographic Books for Kids make great gifts all year round and you can enter to win them too!  Check out these fun Spring titles over at",
+    "tweet_topic": "book"
+  },
+  "45": {
+    "sentiment_label": "positive",
+    "text_of_tweet": "A must read book that will surely leave a lasting impression.",
+    "tweet_topic": "book"
+  },
+  "46": {
+    "sentiment_label": "positive",
+    "text_of_tweet": "Reconstructing yourself after deconstructing your faith? Read this gem and see you're not alone!",
+    "tweet_topic": "book"
+  },
+  "47": {
+    "sentiment_label": "positive",
+    "text_of_tweet": "Great book with great illustrations for kids!!",
+    "tweet_topic": "book"
+  },
+  "48": {
+    "sentiment_label": "positive",
+    "text_of_tweet": "Today is Reading is Funny Day! I used to read Mo Willems's @The_Pigeon series books such as -The Pigeon Finds A Hot Dog- to my kids when they were younger as we all thought they were hilarious.",
+    "tweet_topic": "book"
+  },
+  "49": {
+    "sentiment_label": "neutral",
+    "text_of_tweet": "Congratulations to @DimitrieSissi as she celebrates her 1 year, after publishing her memoir -Do not Accept To Die-.",
+    "tweet_topic": "book"
+  },
+  
+  "50": {"sentiment_label": "neutral",
+"text_of_tweet": "This is a historical heist story with interesting characters that have enough depth to keep you invested in their fate.",
+"tweet_topic": "book"}
+
+}
